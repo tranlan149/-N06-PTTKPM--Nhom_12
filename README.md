@@ -3,13 +3,13 @@
 ## 2.Các yêu cầu tổ chức chương trình chính về công nghệ chức năng
 ### 2.1.Frontend:
 #### -Ngôn ngữ: HTML, CSS, JavaScript.
-#### -Framework: ReactJS, Angular.
+#### -Framework: ReactJS, boostraps.
 #### -Tính năng: Giao diện thân thiện, responsive, hỗ trợ tìm kiếm, lọc sản phẩm, và quản lý giỏ hàng.
 ### 2.2.Backend:
-#### -Ngôn ngữ: Node.js (Express).
+#### -Ngôn ngữ: Node.js (Express), typescript.
 #### -Chức năng: Quản lý sản phẩm, đơn hàng, người dùng; tích hợp API thanh toán.
 ### 2.3.Cơ sở dữ liệu:
-#### -Hệ quản trị: MySQL, MongoDB.
+#### -Hệ quản trị: MySQL.
 #### -Tính năng: Lưu trữ và quản lý thông tin sản phẩm, người dùng, đơn hàng.
 ### 2.4.Bảo mật:
 #### -HTTPS, mã hóa dữ liệu, bảo mật tài khoản và thanh toán.
@@ -17,7 +17,6 @@
 ### 3.1. Tính sử dụng, áp dụng
 #### -Đối tượng chính:
 ##### +Người dùng cuối (khách hàng mua thuốc): cá nhân có nhu cầu mua thuốc trực tuyến.
-##### +Các nhà cung cấp (nhà thuốc, công ty dược): đối tác cung cấp thuốc cho hệ thống.
 ##### +Quản trị viên hệ thống: người quản lý thông tin sản phẩm, đơn hàng, và khách hàng.
 #### -Nhóm khách hàng:
 ##### +Khách hàng cá nhân: người mua lẻ thuốc để sử dụng.
